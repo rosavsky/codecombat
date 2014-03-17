@@ -79,7 +79,7 @@ module.exports = nativeDescription: "українська мова", englishDesc
     adventurer_suffix: "."
     campaign_beginner: "Кампанія для початківців"
     campaign_beginner_description: "... у якій ви навчитеся магії програмування."
-    campaign_dev: "Випадкові більш складні рівні"
+    campaign_dev: "Випадкові рівні підвищеної складності"
     campaign_dev_description: "... в яких ви вивчите інтерфейс, одночасно роблячи щось складніше."
     campaign_multiplayer: "Арени для мультиплеєра"
     campaign_multiplayer_description: "... в яких ви програмуєте віч-на-віч із іншими гравцями."
