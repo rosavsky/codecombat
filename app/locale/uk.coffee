@@ -201,6 +201,8 @@ module.exports = nativeDescription: "українська мова", englishDesc
     tome_select_a_thang: "Оберіть когось для "
     tome_available_spells: "Доступні закляття"
     hud_continue: "Продовжити (натисніть shift-space)"
+    
+    # Перекладати текст нижче?
 
 #  admin:
 #    av_title: "Admin Views"
