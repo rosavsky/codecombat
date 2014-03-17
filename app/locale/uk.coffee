@@ -1,8 +1,8 @@
 module.exports = nativeDescription: "українська мова", englishDescription: "Ukranian", translation:
   common:
     loading: "Завантаження..."
-#    saving: "Saving..."
-#    sending: "Sending..."
+    saving: "Збереження..."
+    sending: "Відправлення..."
 
   modal:
     close: "Закрити"
@@ -26,23 +26,23 @@ module.exports = nativeDescription: "українська мова", englishDesc
     about: "Про нас"
     contact: "Контакти"
     twitter_follow: "Фоловити"
-#    employers: "Employers"
+    employers: "Робітники"
 
   forms:
     name: "Ім'я"
     email: "Email"
     message: "Повідомлення"
     cancel: "Скасувати"
-#    save: "Save"
+    save: "Зберегти"
 
 #  versions:
-#    save_version_title: "Save New Version"
+#    save_version_title: "Зберегти нову версію"
 #    commit_message: "Commit Message"
 #    new_major_version: "New Major Version"
 #    cla_prefix: "To save changes, first you must agree to our"
 #    cla_url: "CLA"
 #    cla_suffix: "."
-#    cla_agree: "I AGREE"
+#    cla_agree: "Я ЗГОДЕН"
 
   login:
 #    login_modal_title: "Log In"
@@ -52,8 +52,8 @@ module.exports = nativeDescription: "українська мова", englishDesc
     recover: "відновити акаунт"
 
 #  recover:
-#    recover_account_title: "Recover Account"
-#    send_password: "Send Recovery Password"
+#    recover_account_title: "Відновити акаунт"
+#    send_password: "Надіслати лист для відновлення паролю"
 
   signup:
 #    create_account_title: "Create Account to Save Progress"
@@ -68,8 +68,8 @@ module.exports = nativeDescription: "українська мова", englishDesc
 
   home:
     slogan: "Навчіться програмувати на JavaScript, граючи у гру"
-    no_ie: "Нажаль, CodeCombat не працює в IE8 чи більш старих версіях!"
-    no_mobile: "CodeCombat не призначений для мобільних приладів і може не працювати!"
+    no_ie: "Нажаль, CodeCombat не працює в IE8 чи на більш ранніх версіях!"
+    no_mobile: "CodeCombat не призначений для мобільних приладів і може не працювати з ними!"
     play: "Грати"
 
   play:
@@ -79,12 +79,12 @@ module.exports = nativeDescription: "українська мова", englishDesc
     adventurer_suffix: "."
     campaign_beginner: "Кампанія для початківців"
     campaign_beginner_description: "... у якій ви навчитеся магії програмування."
-    campaign_dev: "Випадкові складніші рівні"
+    campaign_dev: "Випадкові більш складні рівні"
     campaign_dev_description: "... в яких ви вивчите інтерфейс, одночасно роблячи щось складніше."
     campaign_multiplayer: "Арени для мультиплеєра"
     campaign_multiplayer_description: "... в яких ви програмуєте віч-на-віч із іншими гравцями."
     campaign_player_created: "Рівні, створені гравцями"
-    campaign_player_created_description: "... у яких ви сражаєтеся проти креативності ваших друзів-<a href=\"/contribute#artisan\">Архитекторів</a>."
+    campaign_player_created_description: "... у яких ви б'єтеся проти креативності ваших друзів-<a href=\"/contribute#artisan\">Архитекторів</a>."
     level_difficulty: "Складність: "
 
   contact:
@@ -97,7 +97,7 @@ module.exports = nativeDescription: "українська мова", englishDesc
     forum_page: "наш форум"
     forum_suffix: "."
     sending: "Відправка..."
-    send: "Відправити фідбек"
+    send: "Відправити зворотній запит"
 
   diplomat_suggestion:
     title: "Допоможіть перекласти CodeCombat!"
@@ -151,7 +151,7 @@ module.exports = nativeDescription: "українська мова", englishDesc
     gravatar_signup_suffix: " щоб продовжувати"
     gravatar_not_found_other: "Нажаль, немає профіля, що пов'язаний з електронною адресою цієї людини."
     gravatar_contact: "Контакти"
-    gravatar_websites: "Вебсайти"
+    gravatar_websites: "Веб-сайти"
     gravatar_accounts: "Як показано на"
     gravatar_profile_link: "Повний профіль Gravatar"
 
